@@ -34,7 +34,7 @@ feature:
 # services
 services:
   - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    content: "It's hard to give priority to minor blemishes even knowing it has potential to crack and hurt the foundation being built. My company verifies if there are concerns and how many. "
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -45,7 +45,7 @@ services:
       link: /contact
 
   - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    content: "It's hard to give priority to minor blemishes even knowing it has potential to crack and hurt the foundation being built. My company verifies if there are concerns and how many. "
     images:
       - "/images/service-slide-1.png"
     button:
@@ -54,7 +54,7 @@ services:
       link: /contact
 
   - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    content: ""
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -65,7 +65,7 @@ services:
       link: /contact
 
   - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    content: "It's hard to give priority to minor blemishes even knowing it has potential to crack and hurt the foundation being built. My company verifies if there are concerns and how many. "
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -84,7 +84,7 @@ workflow:
 # call_to_action
 call_to_action:
   title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: One interaction will settle any and all questions before planning for your future.
   image: '/images/cta.png'
   button:
     enable: true

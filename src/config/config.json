@@ -1,14 +1,14 @@
 {
   "site": {
     "title": "Cohesive Biz",
-    "base_url": "https://fabulous-manatee-e39b18.netlify.app",
+    "base_url": "https://cohesivefirm.netlify.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "38",
-    "logo_text": "Astroplate"
+    "logo_text": "Cohesive"
   },
 
   "settings": {

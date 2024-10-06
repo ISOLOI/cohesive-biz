@@ -2,7 +2,7 @@
   "name": "cohesive-biz",
   "version": "1.0.0",
   "description": "landing page site",
-  "author": "themefisher",
+  "author": "devnamednick",
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
